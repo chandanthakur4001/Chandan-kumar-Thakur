@@ -1,4 +1,4 @@
 # Chandan-kumar-Thakur
 This is My First git Repository
 <br>
-Author Chandan Kumar Tahkur
+Author Chandan Kr Tahkur
